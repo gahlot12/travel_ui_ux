@@ -1,6 +1,3 @@
-Sure! Here’s a revised version of your README with the suggested improvements incorporated:
-
-```markdown
 # Travel UI/UX Website
 
 Welcome to the Travel UI/UX Website repository! This project focuses on creating an engaging, responsive, and visually appealing travel website. Built with **Next.js**, **TailwindCSS**, and **TypeScript**, the site features several key sections to enhance its attractiveness and functionality for users interested in exploring travel destinations.
